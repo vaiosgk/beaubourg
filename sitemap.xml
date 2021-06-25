@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+		http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>https://beaubourg.paris</loc>
+	</url>
+	<url>
+		<loc>https://beaubourg.paris/en/ethos/</loc>
+	</url>
+	<url>
+		<loc>https://beaubourg.paris/en/</loc>
+	</url>
+	<url>
+		<loc>https://beaubourg.paris/en/about_ajax_apilink_1/</loc>
+	</url>
+	<url>
+		<loc>https://beaubourg.paris/en/home/</loc>
+	</url>
+	<url>
+		<loc>https://beaubourg.paris/en/node/1/</loc>
+	</url>
+	<url>
+		<loc>https://beaubourg.paris/en/node/6/</loc>
+	</url>
+	<url>
+		<loc>https://beaubourg.paris/en_ajax_apilink_1/</loc>
+	</url>
+	<url>
+		<loc>https://beaubourg.paris/lib/securimage/securimage_show_70186114cfe4fed41c2394e04825b51c/</loc>
+	</url>
+</urlset>
